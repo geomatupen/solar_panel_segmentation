@@ -1,0 +1,7 @@
+**/.ipynb_checkpoints/
+detectron_maskrcnn/libraries/
+detectron_maskrcnn/ortho/
+detectron_maskrcnn/jsons/
+detectron_maskrcnn/training_dataset_generated/
+OBIA_segmentation/ortho/
+OBIA_segmentation/results/
