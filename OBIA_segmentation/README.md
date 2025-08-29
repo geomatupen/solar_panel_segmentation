@@ -25,7 +25,7 @@ The solar panel segmentation use case was tested and the overall process and the
 - Goal: a reusable tool for object-based segmentation and classification workflows across domains  
 Note: phase2 is in different repo (https://github.com/geomatupen/obia). Visit this repo for further information of generic OBIA workflow for nickyspatial.
 
-This video sums up the overall workflow: https://drive.google.com/file/d/1kbkMGpdV6UeogWRjpqjGZD-2Hxu5dwaV/view?usp=sharing
+- This video sums up the overall workflow: https://drive.google.com/file/d/1kbkMGpdV6UeogWRjpqjGZD-2Hxu5dwaV/view?usp=sharing
 ---
 
 
