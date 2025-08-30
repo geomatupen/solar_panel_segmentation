@@ -13,7 +13,7 @@ This repository demonstrates an **object-based image analysis (OBIA)** workflow 
 - Built a simple web UI for **sample collection**  
 - Ran supervised classification using Random Forest, SVM, and KNN  
 - Produced classified GeoJSON outputs for visualization
-Note: phase 1 is included in this repo. Since, the phase 2 now is more comprehensive, directly watching phase 2 video added below in phase 2 section will give the full overview. 
+- Note: phase 1 is included in this repo. Since, the phase 2 now is more comprehensive, directly watching phase 2 video added below in phase 2 section will give the full overview. 
 
 The solar panel segmentation use case was tested and the overall process and the results of the each steps are deteiled in this document: https://docs.google.com/document/d/1wnRmiJQ-FqkLDHre-ad9jihaWg1--8M0uIzdadruPw8/edit?usp=sharing 
 
