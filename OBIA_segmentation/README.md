@@ -8,8 +8,8 @@ This repository demonstrates an **object-based image analysis (OBIA)** workflow 
 
 ## Phase 1 
 - Focused on **solar panel detection** from UAV orthophotos in jupyter notebook
-- Implemented segmentation with NickySpatial  
-- Added custom indices to improve feature separation  
+- Implemented segmentation with NickySpatial (Rule Based and Supervised)
+- Added custom indices to improve feature separation for Rule Based. 
 - Built a simple web UI for **sample collection**  
 - Ran supervised classification using Random Forest, SVM, and KNN  
 - Produced classified GeoJSON outputs for visualization
