@@ -77,8 +77,8 @@ This covers:
 
 ## 4. Classification
 Train supervised models (Random Forest, SVM, KNN) using the labeled samples.  
-- Random Forest generally performs best  
-- KNN works moderately well  
+- Random Forest generally performed best  
+- KNN worked moderately well  
 - SVM may need more training samples to perform well  
 
 Classified outputs are saved as GeoJSON files for visualization.  
